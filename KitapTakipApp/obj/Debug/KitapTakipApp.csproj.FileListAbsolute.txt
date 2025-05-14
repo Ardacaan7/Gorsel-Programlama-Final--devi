@@ -1,0 +1,10 @@
+C:\Users\ozanp\OneDrive\Masaüstü\Yeni klasör\KitapTakipApp\bin\Debug\KitapTakipApp.exe.config
+C:\Users\ozanp\OneDrive\Masaüstü\Yeni klasör\KitapTakipApp\bin\Debug\KitapTakipApp.exe
+C:\Users\ozanp\OneDrive\Masaüstü\Yeni klasör\KitapTakipApp\bin\Debug\KitapTakipApp.pdb
+C:\Users\ozanp\OneDrive\Masaüstü\Yeni klasör\KitapTakipApp\obj\Debug\KitapTakipApp.csproj.AssemblyReference.cache
+C:\Users\ozanp\OneDrive\Masaüstü\Yeni klasör\KitapTakipApp\obj\Debug\KitapTakipApp.Form1.resources
+C:\Users\ozanp\OneDrive\Masaüstü\Yeni klasör\KitapTakipApp\obj\Debug\KitapTakipApp.Properties.Resources.resources
+C:\Users\ozanp\OneDrive\Masaüstü\Yeni klasör\KitapTakipApp\obj\Debug\KitapTakipApp.csproj.GenerateResource.cache
+C:\Users\ozanp\OneDrive\Masaüstü\Yeni klasör\KitapTakipApp\obj\Debug\KitapTakipApp.csproj.CoreCompileInputs.cache
+C:\Users\ozanp\OneDrive\Masaüstü\Yeni klasör\KitapTakipApp\obj\Debug\KitapTakipApp.exe
+C:\Users\ozanp\OneDrive\Masaüstü\Yeni klasör\KitapTakipApp\obj\Debug\KitapTakipApp.pdb
